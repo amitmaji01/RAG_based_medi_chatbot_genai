@@ -1,0 +1,10 @@
+langchain
+langchain-community
+faiss-cpu
+euriai
+langchain-huggingface
+pypdf
+python-dotenv
+sentence-transformers
+euriai
+streamlit
